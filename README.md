@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi everybody <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Afri
+<img align="center" height="auto" src="https://e.top4top.io/p_1770mvw430.jpeg"/>
 
-<!--
-**africode7/africode7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+___
 
-Here are some ideas to get you started:
+My Name is Afri, you know ? I am 13 years old, and I can programming language Java and C++. of course I'm still a student, and I'm still learning a lot in programming languages. my goal is to become a game developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+___
+
+## Stats:
+
+What i am learning/working on these days
+
+![africode7 github stats](https://github-readme-stats.vercel.app/api?username=africode7&show_icons=true&theme=buefy&show_owner=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=africode7&theme=buefy&hide=css,html)

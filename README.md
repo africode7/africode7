@@ -13,3 +13,8 @@ What i am learning/working on these days
 
 ![africode7 github stats](https://github-readme-stats.vercel.app/api?username=africode7&show_icons=true&theme=buefy&show_owner=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=africode7&theme=buefy&hide=css,html)
+
+## You can reach me via :
+Email : <a href="idiotxploit@gmail.com"> idiotxploit@gmail.com
+
+___

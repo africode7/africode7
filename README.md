@@ -3,7 +3,7 @@
 
 ___
 
-My Name is Afri, you know ? I am 13 years old, and I can programming language Java , C++ And Python. of course I'm still a student, and I'm still learning a lot in programming languages. my goal is to become a game developer
+My Name is Afri, you know ? I am 14 years old, and I can programming language Java , C++ And Python. of course I'm still a student, and I'm still learning a lot in programming languages. my goal is to become a game developer
 
 ___
 

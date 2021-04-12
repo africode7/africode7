@@ -15,7 +15,7 @@ What i am learning/working on these days
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=africode7&theme=buefy&hide=css,html)
 
 ## You can reach me via :
-Email : <a href="https://t.me/headlessman7"> Telegram
+Telegram : <a href="https://t.me/headlessman7"> headlessman7
 
 Subscribe Youtube : <a href="https://www.youtube.com/channel/UCgi73Iqz6RI0IQj8i4s49sw"> An0nym0usly Pr0gramming
 

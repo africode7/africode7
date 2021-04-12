@@ -3,7 +3,7 @@
 
 ___
 
-My Name is Afri, you know ? I am 14 years old, and I can programming language Java , C++ And Python. of course I'm still a student, and I'm still learning a lot in programming languages. my goal is to become a game developer
+My Name is Raven, you know ? I am 14 years old, and I can programming language Java , C++ And Python. of course I'm still a student, and I'm still learning a lot in programming languages. my goal is to become a game developer
 
 ___
 
@@ -15,7 +15,7 @@ What i am learning/working on these days
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=africode7&theme=buefy&hide=css,html)
 
 ## You can reach me via :
-Email : <a href="idiotxploit@gmail.com"> t.me/headlessman7
+Email : <a href="https://t.me/headlessman7"> Telegram
 
 Subscribe Youtube : <a href="https://www.youtube.com/channel/UCgi73Iqz6RI0IQj8i4s49sw"> An0nym0usly Pr0gramming
 

@@ -1,9 +1,9 @@
 ## Hi everybody <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Raven
-<img align="center" height="auto" src="https://e.top4top.io/p_1770mvw430.jpeg"/>
+<img align="center" height="auto" src="https://e.top4top.io/p_198145gsr1.png"/>
 
 ___
 
-My Name is Raven, you know ? I am 14 years old, and I can programming language Java , C++ And Python. of course I'm still a student, and I'm still learning a lot in programming languages. my goal is to become a game developer
+My Name is Raven, not much i can say who i really am , you just know my name.
 
 ___
 
